@@ -1,4 +1,4 @@
 # NewsScraping
 
-This litle script takes a url as input and will scrape the whole article and put it into a Word document or equivalent.
+This litle script takes a url as input and will take all the content from the article and create a Word document or equivalent.
 
